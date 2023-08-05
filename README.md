@@ -5,7 +5,6 @@
     Hello, I'm ArvinFarrelP working at Interested in learning and exploring more about FrontEnd and Backend Development. 
   </samp>
 </p>
-<br></br>
 
 ### Connect with me:
 <a href="https://www.linkedin.com/mwlite/in/arvin-farrel-pramuditya-477301233">
