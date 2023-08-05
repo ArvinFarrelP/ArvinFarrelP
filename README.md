@@ -18,4 +18,4 @@
 ### My Coding Skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
 ### Framewrok skills:
-[![My Skills](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootsrap,react&perline=3)](https://skillicons.dev)
