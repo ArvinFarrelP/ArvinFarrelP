@@ -15,7 +15,7 @@
 </p>
 <br/><br/>
 
-### My Coding Skills:
+### My Coding skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
-### Framewrok skills:
+### Framework skills:
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,react&perline=3)](https://skillicons.dev)
