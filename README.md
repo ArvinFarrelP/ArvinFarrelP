@@ -12,6 +12,10 @@
   <img align="left" alt="ArvinFarrelP Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a><br></br>
 
+<a href="">
+  <img align="left" alt="" width="21px" src="https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev" />
+</a><br></br>
+
 ### My Coding skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
   
