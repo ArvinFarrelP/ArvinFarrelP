@@ -16,5 +16,4 @@
 <br/><br/>
 
 ### My Coding Skills:
-<a href="https://www.linkedin.com/mwlite/in/arvin-farrel-pramuditya-477301233">
-  <img align="left" alt="ArvinFarrelP Linkdin" width="21px" src="file:///D:/KULIAH/MATRIKULASI/skill-icons-main/icons/Python-Dark.svg" /
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
