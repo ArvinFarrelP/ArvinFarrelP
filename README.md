@@ -14,4 +14,3 @@
 
 ### My Coding skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,python)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap&perline=3)](https://skillicons.dev)
