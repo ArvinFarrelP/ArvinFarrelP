@@ -10,7 +10,7 @@
 </a><br></br>
 
 
-###                                                             Coding Skills:
+  ###                                                           Coding Skills:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,py"/>
