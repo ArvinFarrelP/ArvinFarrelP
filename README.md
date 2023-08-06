@@ -10,8 +10,8 @@
 </a><br></br>
 
 
-<p>                                                         Coding Skills:   </p>
-<p align="center">
+### Coding Skills:
+<p align="left"> <!--left,center-->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,py"/>
   </a>
