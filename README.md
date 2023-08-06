@@ -12,9 +12,9 @@
 ## Coding Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,py" width=40px />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,py"/>
   </a>
-</p>
+</p><br></br>
 
 
 
