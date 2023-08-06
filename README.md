@@ -9,7 +9,8 @@
   <img align="left" alt="ArvinFarrelP Linkdin" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a><br></br>
 
-                                                        ### Coding Skills:
+
+###                                                             Coding Skills:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,py"/>
