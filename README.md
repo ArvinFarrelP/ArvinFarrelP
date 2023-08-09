@@ -13,7 +13,7 @@
 ### Coding Skills:
 <p align="left"> <!--left,center-->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,cpp,py"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,laravel"/>
   </a>
 </p><br></br>
 
