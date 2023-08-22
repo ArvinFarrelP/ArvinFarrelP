@@ -1,6 +1,6 @@
 <p>
   <samp>
-    Hello, I'm ArvinFarrelP working at Interested in learning and exploring more about FrontEnd and Backend Development. 
+    Hello, I'm ArvinFarrelP working at Interested in learning and exploring more about Backend Development. 
   </samp>
 </p>
 
@@ -13,7 +13,7 @@
 ### Coding Skills:
 <p align="left"> <!--left,center-->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,python,django,php,laravel"/>
+    <img src="https://skillicons.dev/icons?i=python,django,php,laravel"/>
   </a>
 </p><br></br>
 
