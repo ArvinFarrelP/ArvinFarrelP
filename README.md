@@ -1,6 +1,6 @@
 <p>
   <samp>
-    Hello, I'm ArvinFarrelP working at Interested in learning and exploring more about Web Development. 
+    Hello, I'm ArvinFarrelP working at Interested in learning and exploring more about IT. 
   </samp>
 </p>
 
