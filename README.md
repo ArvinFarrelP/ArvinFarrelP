@@ -10,10 +10,10 @@
 </a><br></br>
 
 
-### Coding Skills:
+### Skills:
 <p align="left"> <!--left,center-->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,bootstrap,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=linux,bash,cpp"/>
   </a>
 </p><br></br>
 
