@@ -12,10 +12,10 @@
 </a><br></br>
 
 
-### Skills:
-<p align="left"> <!--left,center-->
+<!--### Skills:
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,cpp"/>
   </a>
-</p><br></br>
+</p><br></br>-->
 
