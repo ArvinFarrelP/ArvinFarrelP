@@ -7,24 +7,7 @@
 
 <hr>
 
-(https://holopin.me/arvinfarrelp)](https://holopin.io/@arvinfarrelp)
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hydraphyzer&theme=discord&row=2&column=3&margin-w=10&margin-h=10"/></a> </p>
-
-<p align="center"> 
-  Profile Views 🎃<br><br>
-  <img src="https://profile-counter.glitch.me/HydraPhyzer/count.svg" />
-</p>
-
-- ⚡ I’m Currently Working on **Web Development Projects**
-
-- ⚡ I’m Currently Learning **Full Stack Web Development**
-
-- ⚡ Ask Me About **C , C++ , HTML , CSS , JavaScript , SQL**
-
-- ⚡ Feel Free to Concact Me **zubi41918@gmail.com**
-
-- ⚡ Fun Fact About Me **I Think, I am a Quick Learner**
+[![An image of @arvinfarrelp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arvinfarrelp)](https://holopin.io/@arvinfarrelp)
 
 <hr>
 
@@ -36,8 +19,6 @@
 <a href="https://instagram.com/zubair_gujjar997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zubair_gujjar997" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hydraphyzer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hydraphyzer" height="30" width="40" /></a>
 </p>
-
-
 
 
 <!-- <p>
