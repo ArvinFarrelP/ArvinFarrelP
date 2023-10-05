@@ -14,7 +14,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/zubairgujjar997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zubairgujjar997" height="30" width="40" /></a>
-<a href="https://twitter.com/zubairgujjar997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zubairgujjar997" height="30" width="40" /></a>
+<a href="itter.com/27Pramuditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zubairgujjar997" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/mwlite/in/arvin-farrel-pramuditya-477301233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/muhammad-zubair-javed/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/arvin_farrelp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zubair_gujjar997" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hydraphyzer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hydraphyzer" height="30" width="40" /></a>
