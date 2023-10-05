@@ -7,7 +7,7 @@
 
 <hr>
 
-[![@hydraphyzer's Holopin board](https://holopin.me/hydraphyzer)](https://holopin.io/@hydraphyzer)
+(https://holopin.me/arvinfarrelp)](https://holopin.io/@arvinfarrelp)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hydraphyzer&theme=discord&row=2&column=3&margin-w=10&margin-h=10"/></a> </p>
 
@@ -37,67 +37,6 @@
 <a href="https://www.leetcode.com/hydraphyzer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hydraphyzer" height="30" width="40" /></a>
 </p>
 
-<hr>
-<div align="center">
-  <a href="https://github.com/hydraphyzer/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=monokai" alt="Readme Quotes">
-  </a>
-</div>
-<hr>
-<h3 align="center">Languages and Tools </h3>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,c,cs,cpp,firebase,git,github,ai,mongodb,netlify,py,ts,ai,bootstrap,tailwind,sass" />
-  </a>
-</div>
-
-<hr>
-
-<h2 align="center">Contribution Graph</h2>
-
-<p align="center">
-
-
-<table>
-  <tr>
-    <th>Stats</th>
-    <th>Language By Commit</th>
-    <th>Languages By Repo</th>
-  </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hydraphyzer&theme=gruvbox"/></td>
-    <td>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hydraphyzer&theme=gruvbox" /></td>
-            </td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hydraphyzer&theme=gruvbox"/></td>
-  </tr>
-
-  <tr>
-    <th>Proflie Info</th>
-            <th>Streak</th>
-            <th>Commits</th>
-            
-  </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hydraphyzer&theme=gruvbox&hide_border=false" /></td>
-            <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hydraphyzer&theme=dracula&show_icons=true&locale=en&layout=demo&hide_border=false&border_radius=5" alt=hydraphyzer /></a></td>
-            <td>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hydraphyzer&theme=gruvbox&utcOffset=8" /></td>
-  </tr>
-          
-</table>
-<hr>
-
-<div align="center">
-  <h2>Spotify Playing 🎵</h2>
-  <a href="https://open.spotify.com/user/8fw9welpdw2jh2abilt8t04gd">
-    <img src="https://spotify-hydraphyzer.vercel.app/api/spotify?background_color=34495e&border_color=27ae60" alt="Spotify">
-  </a>
-</div>
-
-<hr>
-
-Crafted <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Artist%20Light%20Skin%20Tone.png" alt="Artist Light Skin Tone" width="35" height="35" /> By Me. Don't Forget to Show <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="35" height="35" /> to My Profile. And Please Follow <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Open%20Hands.png" alt="Smiling Face with Open Hands" width="25" height="25" /> Me On Github
 
 
 
