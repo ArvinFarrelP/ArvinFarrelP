@@ -17,7 +17,6 @@
 <a href="https://twitter.com/27Pramuditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ArvinFarrelP" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/mwlite/in/arvin-farrel-pramuditya-477301233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/ArvinFarrelP/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/arvin_farrelp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ArvinFarrelP" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hydraphyzer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hydraphyzer" height="30" width="40" /></a>
 </p>
 
 
