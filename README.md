@@ -7,7 +7,7 @@
 
 <hr>
 
-<!--[![An image of @arvinfarrelp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arvinfarrelp)](https://holopin.io/@arvinfarrelp)-->
+[![An image of @arvinfarrelp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arvinfarrelp)](https://holopin.io/@arvinfarrelp)
 
 <hr>
 
