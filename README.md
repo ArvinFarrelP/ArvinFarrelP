@@ -11,7 +11,7 @@
 ### Skills:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,cpp,Bootstrap,Taildwind,Reactjs"/>
+    <img src="https://skillicons.dev/icons?i=linux,bash,cpp,Bootstrap,Tailwind,React"/>
   </a>
 </p><br></br>
 
