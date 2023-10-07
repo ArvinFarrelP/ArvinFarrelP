@@ -8,7 +8,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,cpp,bootstrap,tailwind,react,laravel"/>
   </a>
-</p><br>
+</p>
 
 <hr>
 
