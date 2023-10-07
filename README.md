@@ -8,6 +8,12 @@
 <hr>
 
 <!--[![An image of @arvinfarrelp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arvinfarrelp)](https://holopin.io/@arvinfarrelp)-->
+### Skills:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,cpp,Bootstrap,Taildwind,Reactjs"/>
+  </a>
+</p><br></br>
 
 <hr>
 
