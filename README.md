@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, I'm ArvinFarrelP</h1>
 <h3 align="center">A Passionate Computer Science Student From Indonesia</h3>
 
-<p align="center">
+<!--<p align="center">
           <a href="https://github.com/hydraphyzer"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2000&color=2980B9&background=22CC3300&center=true&vCenter=true&width=500&lines=DSA+%7C+OOP+%7C+C%2B%2B+%7C+C+%7C+SQL;HTML+%7C+CSS+%7C+JS+;Love+to+Learn+New+Technologies"](https://git.io/typing-svg)></a>
-</p>
+</p>-->
 
 <hr>
 
