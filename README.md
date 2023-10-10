@@ -6,7 +6,7 @@
 ### Skills:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,bootstrap,tailwind,react,laravel"/>
+    <img src="https://skillicons.dev/icons?i=cpp,bootstrap,tailwind,react,"/>
   </a>
 </p></br>
 
