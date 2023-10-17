@@ -3,14 +3,7 @@
 
 <hr>
 
-<!--### Skills:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,cpp,python,bootstrap,tailwind,react,"/>
-  </a>
-</p></br>-->
-
-<<hr>
+<hr>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
