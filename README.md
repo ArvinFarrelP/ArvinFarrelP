@@ -3,12 +3,12 @@
 
 <hr>
 
-### Skills:
+<!--### Skills:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,cpp,python,bootstrap,tailwind,react,"/>
   </a>
-</p></br>
+</p></br>-->
 
 <hr>
 
