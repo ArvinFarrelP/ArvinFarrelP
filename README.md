@@ -10,21 +10,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
   <!-- Bitcoin Logo -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Bitcoin Logo" width="40" height="40" />
-  
-  <!-- Ethereum Logo -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Ethereum_logo_2014.svg" alt="Ethereum Logo" width="40" height="40" />
-
-  <!-- Solana Logo -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Solana_logo_2022.svg" alt="Solana Logo" width="40" height="40" />
-  
-  <!-- Bitcoin Badge -->
-  <img src="https://img.shields.io/badge/Bitcoin-orange?logo=bitcoin&logoColor=white&style=for-the-badge" alt="Bitcoin Badge" />
-  
-  <!-- TradingView Badge -->
-  <img src="https://img.shields.io/badge/TradingView-00A9E0?logo=tradingview&logoColor=white&style=for-the-badge" alt="TradingView Badge" />
 </p>
