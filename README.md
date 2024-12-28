@@ -8,12 +8,9 @@
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Crypto Tools & Tech:</h3>
 <p align="left">
   <!-- Bitcoin Logo -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Bitcoin Logo" width="40" height="40" />
-  ![TradingView Logo](https://upload.wikimedia.org/wikipedia/commons/2/2d/TradingView_logo.svg)
-
-
 
 </p>
