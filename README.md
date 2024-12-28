@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, I'm ArvinFarrelP</h1>
-<h3 align="center">Cryptocurrency trader</h3>
+<h3 align="center">Cryptocurrency Trader</h3>
 
 <hr>
 
