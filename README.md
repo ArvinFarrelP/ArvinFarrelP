@@ -12,4 +12,6 @@
 <p align="left">
   <!-- Bitcoin Logo -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Bitcoin Logo" width="40" height="40" />
+  ![TradingView Logo](https://upload.wikimedia.org/wikipedia/commons/3/37/TradingView_logo.svg)
+
 </p>
