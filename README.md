@@ -16,6 +16,12 @@
   <!-- Bitcoin Logo -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Bitcoin Logo" width="40" height="40" />
   
+  <!-- Ethereum Logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Ethereum_logo_2014.svg" alt="Ethereum Logo" width="40" height="40" />
+
+  <!-- Solana Logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Solana_logo_2022.svg" alt="Solana Logo" width="40" height="40" />
+  
   <!-- Bitcoin Badge -->
   <img src="https://img.shields.io/badge/Bitcoin-orange?logo=bitcoin&logoColor=white&style=for-the-badge" alt="Bitcoin Badge" />
   
