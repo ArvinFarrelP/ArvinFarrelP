@@ -13,6 +13,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
+  <!-- Bitcoin Logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Bitcoin Logo" width="40" height="40" />
+  
   <!-- Bitcoin Badge -->
   <img src="https://img.shields.io/badge/Bitcoin-orange?logo=bitcoin&logoColor=white&style=for-the-badge" alt="Bitcoin Badge" />
   
