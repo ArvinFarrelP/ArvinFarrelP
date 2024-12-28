@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif" alt="Hi" width="24"/>, I'm ArvinFarrelP</h1>
-<h3 align="center">A passionate cryptocurrency trader from Indonesia</h3>
+<h3 align="center">Focused Cryptocurrency Trader from Indonesia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
