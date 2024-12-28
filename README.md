@@ -12,6 +12,7 @@
 <p align="left">
   <!-- Bitcoin Logo -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Bitcoin Logo" width="40" height="40" />
-  ![TradingView Logo](https://upload.wikimedia.org/wikipedia/commons/3/37/TradingView_logo.svg)
+  <img src="https://img.shields.io/badge/TradingView-00A9E0?logo=tradingview&logoColor=white&style=for-the-badge" alt="TradingView Badge" />
+
 
 </p>
