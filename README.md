@@ -13,9 +13,6 @@
   <a href="https://bitcoin.org/en/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Bitcoin" width="40" height="40"/>
   </a>
-  <a href="https://www.youtube.com/@tradesaja" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube Channel" width="40" height="40"/>
-  </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
