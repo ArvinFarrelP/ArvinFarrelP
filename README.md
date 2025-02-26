@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@tradesaja" target="_blank" rel="noreferrer">
-    <strong> Trade Saja</strong>
-  </a> adalah channel YouTube yang menghadirkan edukasi cryptocurrency untuk membantu Anda memahami analisis pasar, mengembangkan strategi trading yang efektif, dan mengikuti perkembangan terbaru dalam blockchain. Sebagai Cryptocurrency Trader sejak 2022, saya fokus pada analisis fundamental dan teknikal untuk mengidentifikasi peluang pasar yang menguntungkan. Dengan pemahaman yang kuat tentang blockchain sebagai dasar investasi, saya berkomitmen untuk terus belajar, beradaptasi, dan berbagi wawasan di tengah pasar crypto yang dinamis.
+    <strong>Trade Saja</strong>
+  </a> adalah channel YouTube yang menghadirkan edukasi cryptocurrency untuk membantu Anda memahami analisis pasar, mengembangkan strategi trading yang efektif, dan mengikuti perkembangan terbaru dalam blockchain. Cryptocurrency Trader sejak 2022 yang fokus pada analisis fundamental & teknikal. Berbagi edukasi crypto melalui YouTube <em>Trade Saja</em> dan terus belajar di dunia blockchain.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
