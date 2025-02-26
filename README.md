@@ -16,13 +16,3 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" alt="Ethereum" width="40" height="40"/>
   </a>
 </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/arvinfarrelp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" width="40" height="40"/>
-  </a>
-  <a href="https://www.youtube.com/@tradesaja" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube Channel" width="40" height="40"/>
-  </a>
-</p>
