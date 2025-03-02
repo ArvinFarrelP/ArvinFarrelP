@@ -20,11 +20,3 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="40" alt="Polygon Logo" />
 </div>
-
----
-
-### 🔥 My Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ArvinFarrelP&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Graph" />
-</div>
