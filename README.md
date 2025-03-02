@@ -2,7 +2,7 @@
 <h3 align="center">Cryptocurrency Trader from Indonesia</h3>
 
 <p align="center">
-   Cryptocurrency Trader sejak 2022 yang fokus pada analisis fundamental & teknikal. Berbagi edukasi crypto melalui YouTube <a href="https://www.youtube.com/@tradesaja" target="_blank" rel="noreferrer">
+   Cryptocurrency Trader yang fokus pada analisis fundamental & teknikal. Berbagi edukasi crypto melalui YouTube <a href="https://www.youtube.com/@tradesaja" target="_blank" rel="noreferrer">
     <strong>Trade Saja</strong></a> dan terus belajar di dunia blockchain. 
 </p>
 
