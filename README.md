@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms/uploads/2020/03/p-1-why-an-empty-floor-on-the-new-york-stock-exchange-will-have-little-impact-on-trading.jpg"  />
+  <img height="450" src="https://fox5sandiego.com/wp-content/uploads/sites/15/2020/03/AP20086453484483.jpg?w=2560&h=1440&crop=1"  />
 </div>
 
 ###
@@ -35,7 +35,6 @@
 ###
 
 <div align="left">
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="40" alt="polygon logo"  />
 </div>
 
