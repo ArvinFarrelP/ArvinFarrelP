@@ -9,6 +9,7 @@
 
 ### 👩‍💻 About Me
 
-- 📚 I'm currently expanding my expertise in blockchain research, content creation, and crypto trading.  
-- ⚡ In my free time, I analyze crypto markets, explore emerging blockchain technologies, and stay updated with industry trends.  
-- 🎯 Passionate about decentralized finance (DeFi) and the future of Web3.
+- 📚 Continuously exploring blockchain research, content creation, and crypto trading.  
+- ⚡ Passionate about analyzing crypto markets, discovering emerging blockchain technologies, and staying ahead of industry trends.  
+- 🎯 Dedicated to decentralized finance (DeFi) and the future of Web3 innovation.  
+- 🤝 Open to discussions and collaborations—*boleh lah* kalau ada yang menarik!  
