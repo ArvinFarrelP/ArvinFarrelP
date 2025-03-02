@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif" alt="Hi" width="24"/>, I'm ArvinFarrelP</h1>
+<h1 align="center">Hi <img src="https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif" alt="Hi" width="24"/>, I'm Arvin Farrel Pramuditya</h1>
 <h3 align="center">Focused Cryptocurrency Trader from Indonesia</h3>
 
 <p align="center">
