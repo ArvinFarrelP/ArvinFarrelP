@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms/uploads/2020/03/p-1-why-an-empty-floor-on-the-new-york-stock-exchange-will-have-little-impact-on-trading.jpg"  />
+  <img height="150" src="https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms/uploads/2020/03/p-1-why-an-empty-floor-on-the-new-york-stock-exchange-will-have-little-impact-on-trading.jpg"  />
 </div>
 
 ###
