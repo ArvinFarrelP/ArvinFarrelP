@@ -9,7 +9,5 @@
 
 ### 👩‍💻 About Me
 
-- 📚 I'm currently learning blockchain content creator and crypto trader.
+- 📚 I'm currently expanding my expertise in blockchain research, content creation, and crypto trading.
 - ⚡ In my free time, I analyze crypto markets, explore new blockchain projects, and play games like Genshin Impact.  
-
----
