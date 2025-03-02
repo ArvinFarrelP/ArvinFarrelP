@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif" alt="Hi" width="24"/>, I'm Arvin Farrel Pramuditya</h1>
-<h3 align="center">Focused Cryptocurrency Trader from Indonesia</h3>
+<h3 align="center">Cryptocurrency Trader from Indonesia</h3>
 
 <p align="center">
    Cryptocurrency Trader sejak 2022 yang fokus pada analisis fundamental & teknikal. Berbagi edukasi crypto melalui YouTube <a href="https://www.youtube.com/@tradesaja" target="_blank" rel="noreferrer">
