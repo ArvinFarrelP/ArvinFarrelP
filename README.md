@@ -3,12 +3,3 @@
        alt="Stock Exchange Floor" 
        style="width: 100%; max-width: 800px; height: auto; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
 </div>
-
----
-
-### 👩‍💻 About Me
-
-- 📚 Continuously exploring blockchain research, content creation, and crypto trading.  
-- ⚡ Passionate about analyzing crypto markets, discovering emerging blockchain technologies, and staying ahead of industry trends.  
-- 🎯 Dedicated to decentralized finance (DeFi) and the future of Web3 innovation.  
-- 🤝 Open to discussions and collaborations—*boleh lah* kalau ada yang menarik!  
