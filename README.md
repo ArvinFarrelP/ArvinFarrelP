@@ -9,8 +9,3 @@ https://keyserver.ubuntu.com/pks/lookup?search=2A3391F72DB6A6E2CB84D1C894BB0A215
 
 Keyoxide proof  
 https://keyoxide.org/2A3391F72DB6A6E2CB84D1C894BB0A2151DC1C4C
-
-## Contact
-
-Email: farel877629@gmail.com
-GitHub: https://github.com/ArvinFarrelP
