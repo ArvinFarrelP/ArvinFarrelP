@@ -1,6 +1,9 @@
 <h3 align="center">🔐 Backend Developer | Security Enthusiast</h3>
 
+---
+
 <h3 align="center">🌐 Connect with me</h3>
+
 <p align="center">
 <a href="https://dev.to/arvinfarrelp" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
@@ -10,7 +13,10 @@
 </a>
 </p>
 
+---
+
 <h3 align="center">🛠 Languages and Tools</h3>
+
 <p align="center">
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -41,4 +47,43 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
 </a>
 
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ArvinFarrelP&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinFarrelP&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArvinFarrelP&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<h3 align="center">🚀 Featured Projects</h3>
+
+<p align="center">
+
+🔐 <b>CipherVision</b>  
+Cryptographic analysis tool for identifying cipher patterns and structures.
+
+🔑 <b>Web3 Wallet Authentication System</b>  
+Secure login system using wallet signature verification and JWT sessions.
+
+🤖 <b>CyberGuard AI</b>  
+AI-powered cybersecurity chatbot for security awareness and assistance.
+
+📱 <b>Warung Ajib — Fullstack Mobile Sales Management System</b>  
+Flutter-based mobile commerce system with payment gateway integration.
+
+</p>
+
+---
+
+<p align="center">
+⭐ From <a href="https://github.com/ArvinFarrelP">ArvinFarrelP</a>
 </p>
