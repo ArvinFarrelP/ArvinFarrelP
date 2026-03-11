@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Arvin Farrel Pramuditya</h1>
 <h3 align="center">🔐 Backend Developer | Security Enthusiast</h3>
 
 ---
