@@ -1,7 +1,5 @@
 ## Cryptographic Identity
 
-PGP preferred for responsible disclosure or encrypted communication.
-
 OpenPGP (Ed25519) fingerprint
 
 2A33 91F7 2DB6 A6E2 CB84 D1C8 94BB 0A21 51DC 1C4C
