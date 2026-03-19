@@ -5,7 +5,7 @@ Fingerprint:
 CC7C 7F6E E344 0CD3 002B 2C00 8C0A E50D A453 72A9
 
 Public Key
-[https://keys.openpgp.org/vks/v1/by-fingerprint/CC7C7F6EE3440CD3002B2C008C0AE50DA45372A9](https://keyserver.ubuntu.com/pks/lookup?search=97C190BBF7FD0BA7C410F6D89DA0EA2EAD1D7E47&fingerprint=on&op=index)
+[[https://keys.openpgp.org/vks/v1/by-fingerprint/CC7C7F6EE3440CD3002B2C008C0AE50DA45372A9](https://keyserver.ubuntu.com/pks/lookup?search=97C190BBF7FD0BA7C410F6D89DA0EA2EAD1D7E47&fingerprint=on&op=index)](https://keyserver.ubuntu.com/pks/lookup?search=CC7C7F6EE3440CD3002B2C008C0AE50DA45372A9&fingerprint=on&op=index)
 
 Keyoxide Proof
 https://keyoxide.org/CC7C7F6EE3440CD3002B2C008C0AE50DA45372A9
