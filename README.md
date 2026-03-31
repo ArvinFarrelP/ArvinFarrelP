@@ -1,12 +1,8 @@
 ## 🔐 Cryptographic Identity
 
-### Primary OpenPGP Key (Ed25519)
+## Import My ED25519 Public Keys
 
-**Fingerprint**
-CC7C 7F6E E344 0CD3 002B 2C00 8C0A E50D A453 72A9
-
-**Public Key**
-https://keyserver.ubuntu.com/pks/lookup?search=CC7C7F6EE3440CD3002B2C008C0AE50DA45372A9&fingerprint=on&op=index
+information about my keys https://keyserver.ubuntu.com/pks/lookup?search=97C190BBF7FD0BA7C410F6D89DA0EA2EAD1D7E47&fingerprint=on&op=index
 
 **Ariadne Identity**
 [proof](https://keyoxide.org/CC7C7F6EE3440CD3002B2C008C0AE50DA45372A9)
