@@ -4,7 +4,7 @@
 
 information about my keys https://keyserver.ubuntu.com/pks/lookup?search=97C190BBF7FD0BA7C410F6D89DA0EA2EAD1D7E47&fingerprint=on&op=index
 
-**Ariadne Identity**
+**Ariadne Identity:**
 [proof](https://keyoxide.org/CC7C7F6EE3440CD3002B2C008C0AE50DA45372A9)
 
 ---
