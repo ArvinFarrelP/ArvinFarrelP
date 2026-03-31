@@ -9,7 +9,7 @@ CC7C 7F6E E344 0CD3 002B 2C00 8C0A E50D A453 72A9
 https://keyserver.ubuntu.com/pks/lookup?search=CC7C7F6EE3440CD3002B2C008C0AE50DA45372A9&fingerprint=on&op=index
 
 **Ariadne Identity**
-Proof: https://keyoxide.org/CC7C7F6EE3440CD3002B2C008C0AE50DA45372A9
+[proof](https://keyoxide.org/CC7C7F6EE3440CD3002B2C008C0AE50DA45372A9)
 
 ---
 
