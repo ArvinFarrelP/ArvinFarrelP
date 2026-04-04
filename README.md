@@ -1,25 +1,50 @@
-## 🔐 Cryptographic Identity
+## ❄️ Secure Identity
 
-## Import My ED25519 Public Keys
-
-information about my keys https://keyserver.ubuntu.com/pks/lookup?search=CC7C7F6EE3440CD3002B2C008C0AE50DA45372A9&fingerprint=on&op=index
-
-**Ariadne Identity:**
-[proof](https://keyoxide.org/CC7C7F6EE3440CD3002B2C008C0AE50DA45372A9)
+Welcome.  
+For those who wish to communicate securely with me, please verify my cryptographic identity below.
 
 ---
 
-### 📧 Contact
+## 🔐 Cryptographic Keys
 
-Email: [arvinfarrelpramuditya@gmail.com](mailto:arvinfarrelpramuditya@gmail.com)
+### Import My ED25519 Public Key
 
-For encrypted communication, please use my OpenPGP key listed above.
+You can fetch my public key from the Ubuntu keyserver:
+
+https://keyserver.ubuntu.com/pks/lookup?search=CC7C7F6EE3440CD3002B2C008C0AE50DA45372A9&fingerprint=on&op=index
+
+**Ariadne Identity Verification**
+
+Proof of identity via Keyoxide:  
+https://keyoxide.org/CC7C7F6EE3440CD3002B2C008C0AE50DA45372A9
+
+Please verify the fingerprint before trusting any encrypted communication.
 
 ---
 
-### 🗂️ Previous Key (Deprecated)
+## ✉️ Contact
 
-**Fingerprint**
+If you wish to reach me privately:
+
+📧 arvinfarrelpramuditya@gmail.com  
+
+For confidential communication, please encrypt your message using my OpenPGP key.
+
+Security and privacy are always appreciated.
+
+---
+
+## 🗃️ Deprecated Key
+
+The following key is no longer in use.
+
+Fingerprint:
+
 2A33 91F7 2DB6 A6E2 CB84 D1C8 94BB 0A21 51DC 1C4C
 
-This key has been deprecated and replaced by the primary key above.
+Please avoid using this key for encryption.  
+All secure communication should use the primary key listed above.
+
+---
+
+*"Silence protects secrets better than noise."*
