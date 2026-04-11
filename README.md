@@ -14,7 +14,7 @@ https://keyoxide.org/CC7C7F6EE3440CD3002B2C008C0AE50DA45372A9
 
 ## 📧 Contact
 
-arvinfarrelpramuditya@gmail.com
+arvin@arvinlabs.me
 
 Encrypted communication preferred via OpenPGP.
 
