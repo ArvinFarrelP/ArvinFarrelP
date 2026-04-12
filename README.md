@@ -12,8 +12,16 @@ https://keyoxide.org/CC7C7F6EE3440CD3002B2C008C0AE50DA45372A9
 
 ---
 
+## 📧 Contact
+
+arvin@arvinlabs.me
+
+Encrypted communication preferred via OpenPGP.
+
+---
+
 ## 🗂 Deprecated Key
 
 Fingerprint
 
-`2A33 91F7 2DB6 A6E2 CB84 D1C8 94BB 0A21 51DC 1C4C`
+`2A33 91F7 2DB6 A6E2 CB84 D1C8 94BB 0A21 51DC 1C4C` 
