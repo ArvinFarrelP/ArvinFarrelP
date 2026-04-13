@@ -25,4 +25,3 @@ Encrypted communication preferred via OpenPGP.
 Fingerprint
 
 `2A33 91F7 2DB6 A6E2 CB84 D1C8 94BB 0A21 51DC 1C4C` 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--8575--2879-green)](https://orcid.org/0009-0002-8575-2879)
