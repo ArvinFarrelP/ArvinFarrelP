@@ -12,6 +12,13 @@ https://keyoxide.org/CC7C7F6EE3440CD3002B2C008C0AE50DA45372A9
 
 ---
 
+## Academic Identity
+
+ORCID  
+https://orcid.org/0009-0001-0590-8793
+
+---
+
 ## 📧 Contact
 
 arvin@arvinlabs.me
