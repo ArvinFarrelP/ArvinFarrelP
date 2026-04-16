@@ -22,8 +22,7 @@ Modern elliptic-curve cryptography (Ed25519 / Curve25519) is used.
 
 ## 🏅 Certifications
 
-* 🎖️ Practical Introduction to Quantum-Safe Cryptography — IBM
-  *Post-Quantum Cryptography · Secure System Design*
+* 🎖️ IBM - Practical Introduction to Quantum-Safe Cryptography
   https://www.credly.com/badges/bbdc79c8-9b2b-4115-8048-ee24e6c12bab/public_url
 
 ---
