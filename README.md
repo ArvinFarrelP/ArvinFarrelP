@@ -22,27 +22,20 @@ Modern elliptic-curve cryptography (Ed25519 / Curve25519) is used.
 
 ## 🏅 Certifications
 
-* 🎖️ Practical Introduction to Quantum-Safe Cryptography — IBM
-  *Post-Quantum Cryptography · Secure System Design*
+* Practical Introduction to Quantum-Safe Cryptography — IBM
   https://www.credly.com/badges/bbdc79c8-9b2b-4115-8048-ee24e6c12bab/public_url
 
 ---
 
 ## 🎓 Academic Identity
 
-<a href="https://orcid.org/0009-0001-0590-8793" target="_blank" rel="noopener noreferrer">
-<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" />
-ORCID: 0009-0001-0590-8793
-</a>
+https://orcid.org/0009-0001-0590-8793
 
 ---
 
 ## 📧 Contact
 
-[arvin@arvinlabs.me](mailto:arvin@arvinlabs.me)
-
 Encrypted communication preferred via OpenPGP.
-Public key available via Keyoxide / keyserver.
 
 ---
 
