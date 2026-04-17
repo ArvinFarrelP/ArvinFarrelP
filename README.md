@@ -11,5 +11,3 @@ Modern elliptic-curve cryptography (Ed25519 / Curve25519) is used.
 
 * 🧾 Keyoxide Verification
   https://keyoxide.org/CC7C7F6EE3440CD3002B2C008C0AE50DA45372A9
-
-
