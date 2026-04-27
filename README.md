@@ -1,4 +1,4 @@
-## ❄️ Cryptographic Identityy
+## ❄️ Cryptographic Identity
 
 ### OpenPGP Fingerprint
 
